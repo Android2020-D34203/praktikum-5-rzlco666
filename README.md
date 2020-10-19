@@ -1,3 +1,5 @@
 # praktikum-5
 
-Taruh source code di repository ini. 
+Nama : Syahrizal Hanif
+NIM : 6701184059
+Kelas : D3SI-42-03
